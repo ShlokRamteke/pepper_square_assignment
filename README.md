@@ -41,7 +41,7 @@ dbtr-school-website/
 
    ```
    git clone https://github.com/ShlokRamteke/pepper_square_assignment.git
-   cd pepper)square_assignment
+   cd pepper_square_assignment
    ```
 
 2. Install backend dependencies and start the Strapi server:
